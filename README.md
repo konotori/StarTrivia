@@ -4,6 +4,7 @@ The StarTrivia is an IOS app using [SWAPI](https://swapi.co) and some third part
 ### Third Parties
 - [Alamofire](https://github.com/Alamofire/Alamofire)
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [StarJedi Font](https://www.dafont.com/star-jedi.font)
 ## Screens
 |Home|Films|Starships|
 |------|----|------|
